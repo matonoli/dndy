@@ -67,6 +67,7 @@ void getdNdy() {
 	}
 
 	TCanvas* c1 = new TCanvas("c1","",800,800);
+	c1->SetGrid();
 	TGraphErrors* gr[6]; TGraphErrors* gr_sys[6]; 
 	
 	for (int iS = 0; iS < 6; ++iS)	{
@@ -95,9 +96,12 @@ void getdNdy() {
 	//TGraphErrors* gr_tot = new TGraphErrors(6, dndy, pt, dndy_stat, pt_stat);
 	TMultiGraph* gr_tot = new TMultiGraph();
 	for (int iS = 0; iS < 6; iS++) { gr_tot->Add(gr_sys[iS],"2"); gr_tot->Add(gr[iS],"");}
-	gr_tot->SetTitle("; <dN_{#pi}/dy>; <p_{T}>");
+	gr_tot->SetTitle("; #LTdN_{#pi}/dy#GT; #LTp_{T}#GT (GeV/#it{c})");
 	gr_tot->SetMinimum(0.55); gr_tot->SetMaximum(0.65);
 	gr_tot->Draw("APZ"); 
+	gr_tot->GetYaxis()->SetTitleOffset(1.2);
+	gr_tot->GetYaxis()->SetLabelOffset(0.0025);
+	gr_tot->GetYaxis()->SetLabelSize(0.025);
 	gr_tot->GetXaxis()->SetLimits(10., 22.);
 	gPad->Modified();
 	gPad->Update();

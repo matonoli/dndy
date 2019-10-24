@@ -1,0 +1,438 @@
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
+Fit sys+stat for LT
+NDF=39 Chi^2=105.17 Chi^2/NDF=2.69667
+
+Fit sys+stat for LT
+NDF=39 Chi^2=185.851 Chi^2/NDF=4.7654
+
+Fit sys+stat for LT
+NDF=39 Chi^2=238.181 Chi^2/NDF=6.10721
+
+Fit sys+stat for LT
+NDF=39 Chi^2=113.64 Chi^2/NDF=2.91383
+
+Fit sys+stat for LT
+NDF=39 Chi^2=184.109 Chi^2/NDF=4.72074
+
+Fit sys+stat for LT
+NDF=39 Chi^2=243.156 Chi^2/NDF=6.23476
+
